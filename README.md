@@ -1,5 +1,7 @@
 # OpenPatents
 
+[![Join the chat at https://gitter.im/IAmAnubhavSaini/OpenPatents](https://badges.gitter.im/IAmAnubhavSaini/OpenPatents.svg)](https://gitter.im/IAmAnubhavSaini/OpenPatents?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Patents which are not exclusive. Patents for all. Patents for sustainable  development.
 
 -----------------
