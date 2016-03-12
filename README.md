@@ -38,6 +38,7 @@ Spread: The idea.
 1. Fork this repo.
 2. Add your stuff in OpenPatents/YYYY/MM/DD/LastName/FirstName/{incremental number}-{title of OpenPatent}.[txt|pdf|doc|...]
 3. You are done. But create a pull request anyway for others to see it.
+4. Create your document that resembles a legal patent: including claims, diagrams, prototypes, prior art etc.
 
 Remember to add at least two formats, **text format is mandatory**.
 
