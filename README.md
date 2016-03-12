@@ -55,8 +55,8 @@ Rationale behind OpenPatents - What it is and what it is not.
 4. If your idea is important, good people (who are not evil) make profit from it, they will share the rewards with you anyway.
 5. To encourage development and openness in sharing ideas.
 6. Its a personal choice.
-7. If you reach a breakthrough idea via funding/paid-research (someone else paid you to research), you might have to follow their laws, by-laws and contracts regarding patent/openPatent.
-8. OpenPatents do not intend to violate Intellectual Property that already is filed; neight is that a goal.
+7. If you reach a breakthrough idea via funding/paid-research (someone else paid you to research), you might have to follow their laws, by-laws and contracts regarding patent/OpenPatent.
+8. OpenPatents do not intend to violate Intellectual Property that already is filed; neither is that a goal.
 9. The Goal of OpenPatents is to share ideas and benefits from them based on altruistic behavior.
 10. An OpenPatent can be filed here.
 11. An OpenPatent can not be filed for already granted or pending patents. That's illegal anyway and any court will see through it.
@@ -64,7 +64,7 @@ Rationale behind OpenPatents - What it is and what it is not.
 13. OpenPatent encourages you to also build a prototype so that Novelty, Invention and Usefulness can be killed with a single stone; thus making a future patent application futile.
 14. One of the higher goals of OpenPatents is to make Intellectual Property Laws useless and convert effectivey, any book on IP Law and it's practice, into a pillow or heavy paperweight.
 15. It's a common effort, so participate in freeing the future.
-16. Goal: Thwart patent trolls.
+16. Goals: Thwart patent trolls. Stop vague patents from seeing day of light.
  
 
 What prompted it?
